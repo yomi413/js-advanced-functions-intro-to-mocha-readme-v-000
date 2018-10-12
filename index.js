@@ -5,7 +5,7 @@ function theTruth() {
 function sayHey(hey) {
   // const greeting = 'Hey!'
   // return greeting
-  return `${hey}`
+  return `${hey}!`
 }
 
 function sayHeyFriend(name) {
