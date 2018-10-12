@@ -2,10 +2,9 @@ function theTruth() {
   return true
 }
 
-function sayHey(greeting) {
-  // const greeting = 'Hey!'
-  // return greeting
-  return `${greeting}!`
+function sayHey() {
+  const greeting = 'Hey!'
+  return greeting
 }
 
 function sayHeyFriend(name) {
